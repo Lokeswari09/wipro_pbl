@@ -1,0 +1,6 @@
+s1 = input().split("-")
+s2 = input().split("-")
+m1 = "-".join(s1 + s2)
+m2 = "-".join(s2 + s1)
+print(m1)
+print(m2)
