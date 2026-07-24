@@ -12,4 +12,4 @@ public class ExactMultiple {
         else
             System.out.println("No");
     }
-}
+}max
